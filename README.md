@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ratmir Baykov</h1>
+<h1 align="center">Hi 👋, I'm Ratmir</h1>
 
 <hr>
 
 <h2 align="center">
-  HSE Stud
+  HSE Student
 </h2>
 
 <h2 align="center">Connect with me:</h2>
@@ -17,5 +17,5 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,postgres,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker" />
 </p>
