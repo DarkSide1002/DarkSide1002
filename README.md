@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ratmir Baykov</h1>
 
-<!--
-**DarkSide1002/DarkSide1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2 align="center">
+  HSE Stud
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Connect with me:</h2>
+
+<p align="center">
+  <a href="https://t.me/DarkSprite">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
+
+<h2 align="center">Languages and Tools:</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,postgres,js,html,css" />
+</p>
