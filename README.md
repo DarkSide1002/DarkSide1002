@@ -17,5 +17,5 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,bash" />
 </p>
